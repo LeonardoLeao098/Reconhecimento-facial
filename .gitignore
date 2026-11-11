@@ -1,0 +1,14 @@
+# Dados pessoais e biométricos
+dataset/
+dados/
+
+# Modelos treinados
+modelo/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
